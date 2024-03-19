@@ -1,0 +1,14 @@
+/.idea/
+/my_env/
+.DS_Store
+__pycache__
+uploads/
+*.png
+*.jpeg
+*.jpg
+*.jpg*
+*.sqlite3
+*.txt
+*.crt
+*.key
+myshop/static/
